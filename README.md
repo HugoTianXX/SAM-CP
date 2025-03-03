@@ -1,6 +1,6 @@
 # SAM-CP
 
-This repository contains the implementation for the paper *Semantically Improved Adversarial Attack Based on Masked Language Model via Context Preservation*.(This repository serves as a temporary backup repository for 'https://github.com/HugoTianX/SAM-CP' (the HugoTianX account is set to be invisible by the system, we have contacted Github and submitted a work order))
+This repository contains the implementation for the paper *Semantically Improved Adversarial Attack Based on Masked Language Model via Context Preservation* (This repository serves as a temporary backup repository for 'https://github.com/HugoTianX/SAM-CP' , which is mistakenly marked by Github resulting in external users being unable to access it. We have contacted Github Support and submitted a ticket, but it may take some time for the repository to be restored).
 
 ---
 
